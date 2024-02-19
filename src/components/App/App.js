@@ -13,10 +13,10 @@ export const App = () => {
   return (
     <Container>
       <Profile user={user} />
-      <Statistics title="Upload stats" data={data} />
+      {/* <Statistics title="Upload stats" data={data} />
       <FriendList friends={friends} />
       <TransactionHistory items={transactions} />
-      <GlobalStyle />
+      <GlobalStyle /> */}
     </Container>
   );
 };
