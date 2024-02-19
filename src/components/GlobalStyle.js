@@ -52,25 +52,3 @@ img {
 }
 
 `;
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-a {
-  color: currentColor;
-  text-decoration: none;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-a {
-  color: currentColor;
-  text-decoration: none;
-}
